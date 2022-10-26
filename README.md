@@ -1,7 +1,7 @@
 ## Get start 
 
 
-Create database portto in postgresql
+Create database portto in postgresql, then
 
 
 ```
