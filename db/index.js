@@ -36,7 +36,7 @@ const seed = async () => {
       "https://testnets-api.opensea.io/api/v1/assets?owner=0x5f5dadcbBC522845212C44D63152246eBF1Ea2AB&order_direction=desc&offset=20&limit=20"
     )
   ).data.assets;
-  let assetData = [];
+  const assetData = [];
 
   for (let i = 0; i < response.length; i++) {
     assetData.push(
