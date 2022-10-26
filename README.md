@@ -1,8 +1,8 @@
 ** Get start 
 
-```
-create database portto;
-```
+
+make sure to create database portto in postgresql
+
 
 ```
 npm i
