@@ -1,6 +1,7 @@
 ** Get start 
 
-```create database portto;
+```
+create database portto;
 ```
 
 ```
